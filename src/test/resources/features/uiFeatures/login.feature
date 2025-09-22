@@ -1,3 +1,4 @@
+@ui @smoke
 Feature: Login
   As a user
   I want to sign in
